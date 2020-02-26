@@ -1,0 +1,17 @@
+
+$TTL 38400
+
+@       IN      SOA     servidor02.moodle.dai. correoadmin.moodle.dai$
+                        2014092901
+                        28800
+                        3600
+                        604800
+                        38400 )
+
+@ IN NS servidor01.dam1.com.
+servidor01.joomla.dai. IN A 192.168.5.55
+servidor02.moodle.dai. IN A 10.0.2.15   
+pc01.dam1.com. IN A 192.168.5.30
+pc02.dam1.com. IN A 192.168.5.31
+www.moodle.dai. IN CNAME servidor02.moodle.dai.
+pc05.moodle.dai.        IN      A       192.168.5.25
