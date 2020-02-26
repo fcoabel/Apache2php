@@ -5,3 +5,5 @@
 
 ---
 
+El archivo joomla.jpg es una captura de la pagina web joomla.dai.
+
