@@ -5,5 +5,7 @@
 
 ---
 
-El archivo joomla.jpg es una captura de la pagina web joomla.dai.
+El archivo joomla.png es una captura de la pagina web joomla.dai.
+
+El archivo moodle.png es una captura del sitio web moodle.dai.
 
