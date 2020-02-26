@@ -1,0 +1,13 @@
+$TTL 38400
+
+@	IN	SOA	servidor01.joomla.dai. correoadmin.joomla.dai. (
+			2014092901
+			28800
+			3600
+			604800
+			38400 )
+
+@ IN NS servidor01.joomla.dai.
+servidor01.joomla.dai. IN A 10.0.2.15
+www.joomla.dai. IN CNAME servidor01.joomla.dai. 
+pc05.joomla.dai.	IN	A	10.0.2.16
